@@ -65,6 +65,14 @@
         "difficulty": 1
       },
       {
+        "uuid": "16fc2734-07b3-4f1a-b461-b1435b44dde3",
+        "slug": "pangram",
+        "name": "Pangram",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "uuid": "93e093ca-6c17-472c-8acc-75eec4d6e052",
         "slug": "gigasecond",
         "name": "Gigasecond",
