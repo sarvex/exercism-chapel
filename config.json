@@ -81,6 +81,14 @@
         "difficulty": 1
       },
       {
+        "uuid": "70a529d2-5943-4b70-aaa6-eee5d9ee601a",
+        "slug": "roman-numerals",
+        "name": "Roman Numerals",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "uuid": "69b04b2c-164c-491d-9731-506c0983325e",
         "slug": "isogram",
         "name": "Isogram",
