@@ -105,6 +105,14 @@
         "difficulty": 3
       },
       {
+        "uuid": "06faba8d-12c8-4145-845e-1d57bae99591",
+        "slug": "difference-of-squares",
+        "name": "Difference of Squares",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "uuid": "b0317cb6-adaf-4fa7-a050-ad40e1139413",
         "slug": "raindrops",
         "name": "Raindrops",
