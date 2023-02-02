@@ -81,6 +81,14 @@
         "difficulty": 1
       },
       {
+        "uuid": "721c87ec-78c1-43ab-aa03-9a16bfc223d4",
+        "slug": "rna-transcription",
+        "name": "RNA Transcription",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "uuid": "69b04b2c-164c-491d-9731-506c0983325e",
         "slug": "isogram",
         "name": "Isogram",
